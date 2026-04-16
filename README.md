@@ -124,10 +124,10 @@ List of recommended anime with:
 ## ▶️ How to Run
 
 git clone https://github.com/your-username/anime-recommendation-system-cosine-similarity.git
+
 pip install -r requirements.txt
 
-# Run notebook
-jupyter notebook
+Run jupyter notebook
 
 ---
 
@@ -143,4 +143,5 @@ jupyter notebook
 ## 👩‍💻 Author
 
 Meghana C Varghese
+
 Data Scientist | Machine Learning Enthusiast
